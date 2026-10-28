@@ -1,4 +1,14 @@
 {
   "v": 1,
-  "users": {}
+  "users": {
+    "tuser": {
+      "probe": {
+        "dev": "测试",
+        "screen": "1×1",
+        "first": "t",
+        "last": "t",
+        "count": 1
+      }
+    }
+  }
 }
